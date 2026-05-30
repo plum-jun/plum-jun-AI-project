@@ -1,0 +1,6 @@
+{
+  "name": "裁缝投影制图助手",
+  "description": "微信小程序风格的自主设计与排料制图工具。支持投影仪零失真校准、多尺寸图层切换。基于体型物理参数进行自适应修改，支持历史云端同步、PDF多格式精细化导出打印。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
